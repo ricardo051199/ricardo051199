@@ -31,19 +31,9 @@ Proficient in Agile development environments, working with Scrum and Kanban meth
 
 <div align="center">
 
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=java,spring,react,nextjs,angular,nodejs,nestjs,ts,js,python" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ricardo051199&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   
-  <img
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,git,github,postman,maven,docker,vercel" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo051199&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
 </div>
 

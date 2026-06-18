@@ -31,9 +31,19 @@ Proficient in Agile development environments, working with Scrum and Kanban meth
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,angular,nodejs,nestjs,ts,js,python" />
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,git,github,postman,maven,docker,vercel" />
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=java,spring,react,nextjs,angular,nodejs,nestjs,ts,js,python" 
+  />
+  
+  <img
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,git,github,postman,maven,docker,vercel" 
+  />
 
 </div>
 

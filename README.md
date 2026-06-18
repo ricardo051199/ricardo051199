@@ -31,9 +31,9 @@ Proficient in Agile development environments, working with Scrum and Kanban meth
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardo051199&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo051199&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,angular,nodejs,nestjs,ts,js,python" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,git,github,postman,maven,docker,vercel" />
 
 </div>
 
@@ -43,9 +43,9 @@ Proficient in Agile development environments, working with Scrum and Kanban meth
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricardo051199&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricardo051199&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo051199&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo051199&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
